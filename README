@@ -1,3 +1,6 @@
+MT76x8 (now testing on MT7688/MT7688)
+//TODO: update this readme later 
+
 This is the buildsystem for the OpenWrt Linux distribution.
 
 Please use "make menuconfig" to configure your appreciated
