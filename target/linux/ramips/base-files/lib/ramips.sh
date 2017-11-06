@@ -436,6 +436,9 @@ ramips_board_detect() {
 			name="linkits7688"
 		fi
 		;;
+	*"HLK-7688A")
+		name="hlk7688a"
+		;;
 	*)
 		name="generic"
 		;;

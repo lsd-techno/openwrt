@@ -61,6 +61,7 @@ platform_check_image() {
 	ht-tm02 | \
 	hw550-3g | \
 	ip2202 | \
+	hlk7688a | \
 	linkits7688 | \
 	linkits7688d | \
 	m2m | \
